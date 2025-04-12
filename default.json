@@ -1,0 +1,4 @@
+{
+  "repositories": ["renovate-reproductions/35000"],
+  "dryRun": "lookup"
+}
